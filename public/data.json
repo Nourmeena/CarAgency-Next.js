@@ -1,0 +1,504 @@
+{
+    "car": [
+        {
+            "id": 1,
+            "model": "Sportage",
+            "name": "Kia Sportage 2023",
+            "brand": "Kia",
+            "price": 30000,
+            "category": "new",
+            "color": "red",
+            "image": "images/1.jpeg"
+        },
+        {
+            "id": 2,
+            "model": "Seltos",
+            "name": "Kia Seltos 2023",
+            "brand": "Kia",
+            "price": 25000,
+            "category": "new",
+            "color": "blue",
+            "image": "images/2.jpeg"
+        },
+        {
+            "id": 3,
+            "model": "Sorento",
+            "name": "Kia Sorento 2023",
+            "brand": "Kia",
+            "price": 35000,
+            "category": "new",
+            "color": "black",
+            "image": "images/3.jpeg"
+        },
+        {
+            "id": 4,
+            "model": "Rio",
+            "name": "Kia Rio 2022",
+            "brand": "Kia",
+            "price": 20000,
+            "category": "used",
+            "color": "white",
+            "image": "images/4.jpeg"
+        },
+        {
+            "id": 5,
+            "model": "Forte",
+            "name": "Kia Forte 2022",
+            "brand": "Kia",
+            "price": 22000,
+            "category": "used",
+            "color": "gray",
+            "image": "images/5.jpeg"
+        },
+        {
+            "id": 6,
+            "model": "K5",
+            "name": "Kia K5 2022",
+            "brand": "Kia",
+            "price": 24000,
+            "category": "used",
+            "color": "silver",
+            "image": "images/6.jpeg"
+        },
+        {
+            "id": 7,
+            "model": "Cadenza",
+            "name": "Kia Cadenza 2021",
+            "brand": "Kia",
+            "price": 28000,
+            "category": "imported",
+            "color": "navy",
+            "image": "images/7.jpeg"
+        },
+        {
+            "id": 8,
+            "model": "Stinger",
+            "name": "Kia Stinger 2023",
+            "brand": "Kia",
+            "price": 40000,
+            "category": "new",
+            "color": "red",
+            "image": "images/9.jpeg"
+        },
+        {
+            "id": 9,
+            "model": "Niro",
+            "name": "Kia Niro 2023",
+            "brand": "Kia",
+            "price": 29000,
+            "category": "new",
+            "color": "green",
+            "image": "images/1.jpeg"
+        },
+        {
+            "id": 10,
+            "model": "Soul",
+            "name": "Kia Soul 2022",
+            "brand": "Kia",
+            "price": 23000,
+            "category": "used",
+            "color": "orange",
+            "image": "images/2.jpeg"
+        },
+        {
+            "id": 11,
+            "model": "3 Series",
+            "name": "BMW 3 Series 2023",
+            "brand": "BMW",
+            "price": 45000,
+            "category": "new",
+            "color": "black",
+            "image": "images/3.jpeg"
+        },
+        {
+            "id": 12,
+            "model": "X5",
+            "name": "BMW X5 2023",
+            "brand": "BMW",
+            "price": 65000,
+            "category": "new",
+            "color": "white",
+            "image": "images/4.jpeg"
+        },
+        {
+            "id": 13,
+            "model": "X3",
+            "name": "BMW X3 2023",
+            "brand": "BMW",
+            "price": 55000,
+            "category": "new",
+            "color": "blue",
+            "image": "images/5.jpeg"
+        },
+        {
+            "id": 14,
+            "model": "5 Series",
+            "name": "BMW 5 Series 2022",
+            "brand": "BMW",
+            "price": 61000,
+            "category": "used",
+            "color": "gray",
+            "image": "images/6.jpeg"
+        },
+        {
+            "id": 15,
+            "model": "M3",
+            "name": "BMW M3 2022",
+            "brand": "BMW",
+            "price": 70000,
+            "category": "used",
+            "color": "red",
+            "image": "images/7.jpeg"
+        },
+        {
+            "id": 16,
+            "model": "M4",
+            "name": "BMW M4 2021",
+            "brand": "BMW",
+            "price": 75000,
+            "category": "imported",
+            "color": "yellow",
+            "image": "images/7.jpeg"
+        },
+        {
+            "id": 17,
+            "model": "Z4",
+            "name": "BMW Z4 2021",
+            "brand": "BMW",
+            "price": 58000,
+            "category": "imported",
+            "color": "silver",
+            "image": "images/1.jpeg"
+        },
+        {
+            "id": 18,
+            "model": "X7",
+            "name": "BMW X7 2023",
+            "brand": "BMW",
+            "price": 85000,
+            "category": "new",
+            "color": "black",
+            "image": "images/2.jpeg"
+        },
+        {
+            "id": 19,
+            "model": "i4",
+            "name": "BMW i4 2023",
+            "brand": "BMW",
+            "price": 60000,
+            "category": "new",
+            "color": "blue",
+            "image": "images/3.jpeg"
+        },
+        {
+            "id": 20,
+            "model": "iX",
+            "name": "BMW iX 2022",
+            "brand": "BMW",
+            "price": 70000,
+            "category": "used",
+            "color": "green",
+            "image": "images/4.jpeg"
+        },
+        {
+            "id": 21,
+            "model": "F-150",
+            "name": "Ford F-150 2023",
+            "brand": "Ford",
+            "price": 40000,
+            "category": "new",
+            "color": "red",
+            "image": "images/5.jpeg"
+        },
+        {
+            "id": 22,
+            "model": "Mustang",
+            "name": "Ford Mustang 2023",
+            "brand": "Ford",
+            "price": 55000,
+            "category": "new",
+            "color": "blue",
+            "image": "images/6.jpeg"
+        },
+        {
+            "id": 23,
+            "model": "Explorer",
+            "name": "Ford Explorer 2023",
+            "brand": "Ford",
+            "price": 47000,
+            "category": "new",
+            "color": "black",
+            "image": "images/7.jpeg"
+        },
+        {
+            "id": 24,
+            "model": "Escape",
+            "name": "Ford Escape 2022",
+            "brand": "Ford",
+            "price": 35000,
+            "category": "used",
+            "color": "white",
+            "image": "images/9.jpeg"
+        },
+        {
+            "id": 25,
+            "model": "Edge",
+            "name": "Ford Edge 2022",
+            "brand": "Ford",
+            "price": 38000,
+            "category": "used",
+            "color": "gray",
+            "image": "images/1.jpeg"
+        },
+        {
+            "id": 26,
+            "model": "Ranger",
+            "name": "Ford Ranger 2021",
+            "brand": "Ford",
+            "price": 32000,
+            "category": "imported",
+            "color": "silver",
+            "image": "images/1.jpeg"
+        },
+        {
+            "id": 27,
+            "model": "Bronco",
+            "name": "Ford Bronco 2021",
+            "brand": "Ford",
+            "price": 42000,
+            "category": "imported",
+            "color": "navy",
+            "image": "images/2.jpeg"
+        },
+        {
+            "id": 28,
+            "model": "Maverick",
+            "name": "Ford Maverick 2022",
+            "brand": "Ford",
+            "price": 25000,
+            "category": "new",
+            "color": "green",
+            "image": "images/3.jpeg"
+        },
+        {
+            "id": 29,
+            "model": "Transit",
+            "name": "Ford Transit 2022",
+            "brand": "Ford",
+            "price": 35000,
+            "category": "new",
+            "color": "orange",
+            "image": "images/4.jpeg"
+        },
+        {
+            "id": 30,
+            "model": "Fiesta",
+            "name": "Ford Fiesta 2022",
+            "brand": "Ford",
+            "price": 20000,
+            "category": "used",
+            "color": "red",
+            "image": "images/5.jpeg"
+        },
+        {
+            "id": 31,
+            "model": "Camry",
+            "name": "Toyota Camry 2023",
+            "brand": "Toyota",
+            "price": 30000,
+            "category": "new",
+            "color": "blue",
+            "image": "images/6.jpeg"
+        },
+        {
+            "id": 32,
+            "model": "Corolla",
+            "name": "Toyota Corolla 2023",
+            "brand": "Toyota",
+            "price": 25000,
+            "category": "new",
+            "color": "black",
+            "image": "images/7.jpeg"
+        },
+        {
+            "id": 33,
+            "model": "RAV4",
+            "name": "Toyota RAV4 2023",
+            "brand": "Toyota",
+            "price": 32000,
+            "category": "new",
+            "color": "red",
+            "image": "images/9.jpeg"
+        },
+        {
+            "id": 34,
+            "model": "Highlander",
+            "name": "Toyota Highlander 2022",
+            "brand": "Toyota",
+            "price": 40000,
+            "category": "used",
+            "color": "white",
+            "image": "images/1.jpeg"
+        },
+        {
+            "id": 35,
+            "model": "Tacoma",
+            "name": "Toyota Tacoma 2022",
+            "brand": "Toyota",
+            "price": 38000,
+            "category": "used",
+            "color": "gray",
+            "image": "images/2.jpeg"
+        },
+        {
+            "id": 36,
+            "model": "Sienna",
+            "name": "Toyota Sienna 2021",
+            "brand": "Toyota",
+            "price": 35000,
+            "category": "imported",
+            "color": "silver",
+            "image": "images/3.jpeg"
+        },
+        {
+            "id": 37,
+            "model": "4Runner",
+            "name": "Toyota 4Runner 2021",
+            "brand": "Toyota",
+            "price": 42000,
+            "category": "imported",
+            "color": "navy",
+            "image": "images/4.jpeg"
+        },
+        {
+            "id": 38,
+            "model": "Avalon",
+            "name": "Toyota Avalon 2023",
+            "brand": "Toyota",
+            "price": 45000,
+            "category": "new",
+            "color": "blue",
+            "image": "images/5.jpeg"
+        },
+        {
+            "id": 39,
+            "model": "Prius",
+            "name": "Toyota Prius 2023",
+            "brand": "Toyota",
+            "price": 28000,
+            "category": "new",
+            "color": "green",
+            "image": "images/6.jpeg"
+        },
+        {
+            "id": 40,
+            "model": "C-HR",
+            "name": "Toyota C-HR 2022",
+            "brand": "Toyota",
+            "price": 24000,
+            "category": "used",
+            "color": "orange",
+            "image": "images/7.jpeg"
+        },
+        {
+            "id": 41,
+            "model": "Altima",
+            "name": "Nissan Altima 2023",
+            "brand": "Nissan",
+            "price": 29000,
+            "category": "new",
+            "color": "blue",
+            "image": "images/9.jpeg"
+        },
+        {
+            "id": 42,
+            "model": "Sentra",
+            "name": "Nissan Sentra 2023",
+            "brand": "Nissan",
+            "price": 24000,
+            "category": "new",
+            "color": "black",
+            "image": "images/1.jpeg"
+        },
+        {
+            "id": 43,
+            "model": "Rogue",
+            "name": "Nissan Rogue 2023",
+            "brand": "Nissan",
+            "price": 32000,
+            "category": "new",
+            "color": "red",
+            "image": "images/2.jpeg"
+        },
+        {
+            "id": 44,
+            "model": "Murano",
+            "name": "Nissan Murano 2022",
+            "brand": "Nissan",
+            "price": 37000,
+            "category": "used",
+            "color": "white",
+            "image": "images/3.jpeg"
+        },
+        {
+            "id": 45,
+            "model": "Pathfinder",
+            "name": "Nissan Pathfinder 2022",
+            "brand": "Nissan",
+            "price": 45000,
+            "category": "used",
+            "color": "gray",
+            "image": "images/4.jpeg"
+        },
+        {
+            "id": 46,
+            "model": "370Z",
+            "name": "Nissan 370Z 2021",
+            "brand": "Nissan",
+            "price": 43000,
+            "category": "imported",
+            "color": "silver",
+            "image": "images/5.jpeg"
+        },
+        {
+            "id": 47,
+            "model": "GT-R",
+            "name": "Nissan GT-R 2021",
+            "brand": "Nissan",
+            "price": 100000,
+            "category": "imported",
+            "color": "navy",
+            "image": "images/6.jpeg"
+        },
+        {
+            "id": 48,
+            "model": "Juke",
+            "name": "Nissan Juke 2021",
+            "brand": "Nissan",
+            "price": 26000,
+            "category": "imported",
+            "color": "yellow",
+            "image": "images/7.jpeg"
+        },
+        {
+            "id": 49,
+            "model": "Armada",
+            "name": "Nissan Armada 2022",
+            "brand": "Nissan",
+            "price": 65000,
+            "category": "used",
+            "color": "black",
+            "image": "images/9.jpeg"
+        },
+        {
+            "id": 50,
+            "model": "Rogue Sport",
+            "name": "Nissan Rogue Sport 2022",
+            "brand": "Nissan",
+            "price": 29000,
+            "category": "used",
+            "color": "green",
+            "image": "images/1.jpeg"
+        }
+    ]
+}

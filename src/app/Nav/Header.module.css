@@ -1,0 +1,13 @@
+.logo {
+  padding-right: 100px;
+  font-size: 30px;
+}
+
+.customButton {
+  background-color: red;
+  color: white;
+}
+
+.customButton:hover {
+  background-color: darkred;
+}
