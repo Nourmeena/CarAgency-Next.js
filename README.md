@@ -13,9 +13,6 @@ A simple **Car Showcase** web app built with **Next.js** (App Router) for practi
 ✔ **Carousel** - Interactive car image slider.  
 ✔ **Responsive Design** - Works on mobile & desktop.  
 
----
-
-## **📌 Live Demo**  
 
 ---
 
